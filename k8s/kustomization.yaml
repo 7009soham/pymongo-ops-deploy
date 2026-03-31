@@ -7,4 +7,4 @@ resources:
 
 images:
   - name: 995830900532.dkr.ecr.ap-south-1.amazonaws.com/ci-cd-app
-    newTag: 4767ea563fc5c3c8ef99051da33d06306e79403e
+    newTag: 5ba3fc3af432023a28e651d2b3af1d2d8c0f7de3
