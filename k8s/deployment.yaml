@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: fastapi-container
-        image: 995830900532.dkr.ecr.ap-south-1.amazonaws.com/ci-cd-app:IMAGE_TAG
+        image: 995830900532.dkr.ecr.ap-south-1.amazonaws.com/ci-cd-app
         ports:
         - containerPort: 8000
 
